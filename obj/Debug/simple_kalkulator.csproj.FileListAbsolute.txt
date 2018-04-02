@@ -1,0 +1,82 @@
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\simple_kalkulator\bin\Debug\simple_kalkulator.exe
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\simple_kalkulator\bin\Debug\simple_kalkulator.pdb
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\simple_kalkulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\simple_kalkulator\obj\Debug\simple_kalkulator.MainForm.resources
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\simple_kalkulator\obj\Debug\simple_kalkulator.csproj.GenerateResource.Cache
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\simple_kalkulator\obj\Debug\simple_kalkulator.exe
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\simple_kalkulator\obj\Debug\simple_kalkulator.pdb
+C:\Users\FVCK-32\Videos\simple_kalkulator\bin\Debug\simple_kalkulator.exe
+C:\Users\FVCK-32\Videos\simple_kalkulator\bin\Debug\simple_kalkulator.pdb
+C:\Users\FVCK-32\Videos\simple_kalkulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FVCK-32\Videos\simple_kalkulator\obj\Debug\simple_kalkulator.MainForm.resources
+C:\Users\FVCK-32\Videos\simple_kalkulator\obj\Debug\simple_kalkulator.csproj.GenerateResource.Cache
+C:\Users\FVCK-32\Videos\simple_kalkulator\obj\Debug\simple_kalkulator.exe
+C:\Users\FVCK-32\Videos\simple_kalkulator\obj\Debug\simple_kalkulator.pdb
+C:\Users\Nasrun.Jr\Downloads\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.exe
+C:\Users\Nasrun.Jr\Downloads\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.pdb
+C:\Users\Nasrun.Jr\Downloads\simple_kalkulator\simple_kalkulator\bin\Debug\simple_kalkulator.exe
+C:\Users\Nasrun.Jr\Downloads\simple_kalkulator\simple_kalkulator\bin\Debug\simple_kalkulator.pdb
+C:\Users\Nasrun.Jr\Downloads\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\Nasrun.Jr\Downloads\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.MainForm.resources
+C:\Users\Nasrun.Jr\Downloads\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.csproj.GenerateResource.Cache
+C:\Users\Nasrun.Jr\Downloads\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Conversi_Mata_uang.resources
+C:\Users\Nasrun.Jr\Downloads\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Conver_Berat.resources
+C:\Users\Nasrun.Jr\Downloads\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Conver_Jarak.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.exe
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.pdb
+E:\Project PAW\simple_kalkulator\simple_kalkulator\bin\Debug\simple_kalkulator.exe
+E:\Project PAW\simple_kalkulator\simple_kalkulator\bin\Debug\simple_kalkulator.pdb
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.csprojResolveAssemblyReference.cache
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Conver_Berat.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Conver_Jarak.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Conversi_Mata_uang.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.FormMulai.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Loading.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.MainForm.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Menu_Bangun.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Properties.Resources.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.csproj.GenerateResource.Cache
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Persegii.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Persegi_Panjang.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Balok.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Bola.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Jajargenjang.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Kerucut.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Kubus.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Layang_Layang.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Limas.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Lingkaran.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Segitiga.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Tabung.resources
+E:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Trapesium.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.exe
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.pdb
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\bin\Debug\simple_kalkulator.exe
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\bin\Debug\simple_kalkulator.pdb
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Balok.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Bola.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Conver_Berat.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Conver_Jarak.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Conversi_Mata_uang.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.FormMulai.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Jajargenjang.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Kerucut.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Kubus.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Layang_Layang.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Limas.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Lingkaran.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Loading.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.MainForm.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Menu_Bangun.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Persegii.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Persegi_Panjang.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Properties.Resources.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Segitiga.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Tabung.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.Trapesium.resources
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.csproj.GenerateResource.Cache
+E:\File Data\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.csprojResolveAssemblyReference.cache
+D:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.exe
+D:\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.pdb
+D:\SEMESTER 2\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.exe
+D:\SEMESTER 2\PAW\Project PAW\simple_kalkulator\simple_kalkulator\obj\Debug\simple_kalkulator.pdb
